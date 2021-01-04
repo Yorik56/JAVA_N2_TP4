@@ -1,0 +1,31 @@
+Liste des "Hobby":
+	Cuisine
+	Sport
+	Natation
+	Moto cross
+	Cyclisme
+	Jeux vidéo
+	Programmation
+Liste des "Job":
+	Développeur
+	Manageur
+	Comptable
+	RH
+User [id=1, firstname=zae, lastname=tre, mainHobby=BIKING, hobbies=[SPORTS, VIDEO_GAMES], job=ACCOUNTING]
+User [id=2, firstname=f2, lastname=l2, mainHobby=SWIMMING, hobbies=[SWIMMING, SPORTS, COOKING, MOTO_CROSS, VIDEO_GAMES, PROGRAMMMING], job=MANAGER]
+User [id=3, firstname=f3, lastname=l3, mainHobby=PROGRAMMMING, hobbies=[MOTO_CROSS, BIKING, SWIMMING], job=MANAGER]
+User [id=4, firstname=f4, lastname=l4, mainHobby=SPORTS, hobbies=[VIDEO_GAMES, SPORTS, MOTO_CROSS, PROGRAMMMING, BIKING, COOKING], job=ACCOUNTING]
+User [id=5, firstname=f5, lastname=l5, mainHobby=BIKING, hobbies=[SPORTS, COOKING], job=MANAGER]
+User [id=6, firstname=f6, lastname=l6, mainHobby=COOKING, hobbies=[PROGRAMMMING, SPORTS, COOKING], job=DEVELOPER]
+User [id=7, firstname=f7, lastname=l7, mainHobby=BIKING, hobbies=[VIDEO_GAMES, SPORTS, COOKING, SWIMMING], job=ACCOUNTING]
+User [id=8, firstname=f8, lastname=l8, mainHobby=SWIMMING, hobbies=[COOKING, MOTO_CROSS], job=ACCOUNTING]
+User [id=9, firstname=f9, lastname=l9, mainHobby=VIDEO_GAMES, hobbies=[VIDEO_GAMES, MOTO_CROSS, SWIMMING], job=HUMAN_RESOURCES]
+User [id=10, firstname=f10, lastname=l10, mainHobby=BIKING, hobbies=[MOTO_CROSS, SWIMMING, BIKING, COOKING, PROGRAMMMING, VIDEO_GAMES], job=MANAGER]
+User [id=11, firstname=f11, lastname=l11, mainHobby=BIKING, hobbies=[SPORTS, PROGRAMMMING, VIDEO_GAMES, SWIMMING, BIKING, MOTO_CROSS], job=MANAGER]
+BIKING est utilisé 9 fois
+MOTO_CROSS est utilisé 7 fois
+COOKING est utilisé 8 fois
+SWIMMING est utilisé 8 fois
+VIDEO_GAMES est utilisé 8 fois
+PROGRAMMMING est utilisé 6 fois
+SPORTS est utilisé 8 fois
